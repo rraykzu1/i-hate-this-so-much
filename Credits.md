@@ -6,3 +6,5 @@
 - Xhizy: RHH Intro Credits
 - Jaizu: Posting RHH Intro Credits repo on pokecommunity
 - Surskitty: Flying Taxi
+- Buffel Saft: Insparation, And a bit of borrowing (stealing) code
+- Pokemoncrazy: Showing IV/EVs in Summary Screen 
