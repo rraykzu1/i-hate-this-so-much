@@ -7,4 +7,5 @@
 - Jaizu: Posting RHH Intro Credits repo on pokecommunity
 - Surskitty: Flying Taxi
 - Buffel Saft: Insparation, And a bit of borrowing (stealing) code
-- Pokemoncrazy: Showing IV/EVs in Summary Screen 
+- Pokemoncrazy: Showing IV/EVs in Summary Screen, Showing Type Effectiveness In Battle
+- Greenphx9: Calyrex-Ice and Calyrex-Shadow icons, and some updated mega icons
