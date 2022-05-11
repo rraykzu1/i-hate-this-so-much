@@ -9,3 +9,4 @@
 - Buffel Saft: Insparation, Making all pokemon have garuanteed 3 perfect IVs, Level Cap
 - Pokemoncrazy: Showing IV/EVs in Summary Screen, Showing Type Effectiveness In Battle
 - Greenphx9: Calyrex-Ice and Calyrex-Shadow icons, and some updated mega icons
+- WiserVisor: Following Pokemon
